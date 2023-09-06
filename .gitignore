@@ -1,0 +1,10 @@
+/env
+.env
+/sentiment_model
+/tokenizer
+/myenv
+/.ipynb_checkpoints
+*.csv
+/node_modules
+.vscode
+__pycache__
